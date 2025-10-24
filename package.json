@@ -1,0 +1,25 @@
+{
+  "name": "docker_project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KL193/Simple_Js_Docker_Project_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KL193/Simple_Js_Docker_Project_1/issues"
+  },
+  "homepage": "https://github.com/KL193/Simple_Js_Docker_Project_1#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
